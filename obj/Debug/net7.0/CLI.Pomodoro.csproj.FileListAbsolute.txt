@@ -1,0 +1,15 @@
+D:\Proyectos\CLI.Pomodoro\bin\Debug\net7.0\CLI.Pomodoro.exe
+D:\Proyectos\CLI.Pomodoro\bin\Debug\net7.0\CLI.Pomodoro.deps.json
+D:\Proyectos\CLI.Pomodoro\bin\Debug\net7.0\CLI.Pomodoro.runtimeconfig.json
+D:\Proyectos\CLI.Pomodoro\bin\Debug\net7.0\CLI.Pomodoro.dll
+D:\Proyectos\CLI.Pomodoro\bin\Debug\net7.0\CLI.Pomodoro.pdb
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.csproj.AssemblyReference.cache
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.AssemblyInfoInputs.cache
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.AssemblyInfo.cs
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.csproj.CoreCompileInputs.cache
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.dll
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\refint\CLI.Pomodoro.dll
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.pdb
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\CLI.Pomodoro.genruntimeconfig.cache
+D:\Proyectos\CLI.Pomodoro\obj\Debug\net7.0\ref\CLI.Pomodoro.dll
